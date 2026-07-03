@@ -9,7 +9,7 @@ A compact, state-of-the-art implementation of Claude AI capabilities for ESP32 m
 - **Efficient Processing**: Low-latency inference and response handling
 - **Memory Optimized**: Tailored for embedded systems
 
-![Claude ESP32 Setup](./skill_esp32.jpg)
+![Claude ESP32 Setup](./skill_esp32.png)
 
 ## License
 
